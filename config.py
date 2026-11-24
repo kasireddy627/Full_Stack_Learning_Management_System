@@ -12,4 +12,4 @@ class Config:
     RAZORPAY_WEBHOOK_SECRET = os.getenv("RAZORPAY_WEBHOOK_SECRET")
     BASE_URL = os.getenv("BASE_URL", "http://localhost:5000")
 
-ADMIN_EMAILS = ["kasireddy0604@gmail.com"]
+ADMIN_EMAILS = ["kambalapallesubbareddy627@gmail.com"]
